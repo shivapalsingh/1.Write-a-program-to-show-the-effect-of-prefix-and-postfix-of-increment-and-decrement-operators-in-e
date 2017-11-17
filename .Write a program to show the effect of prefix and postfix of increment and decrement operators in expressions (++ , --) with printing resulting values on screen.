@@ -1,0 +1,15 @@
+#include<stdio.h>
+#include<conio.h>
+main()
+{
+int  a;
+printf("Shiva pal UID 17BCS3554\n");
+printf("Enter The Value of A\n");
+scanf("%d",&a);
+printf("\nThe Value of a is %d\n",a);
+printf("\n The Value of ++a is %d",++a);
+printf("\n The VAlue of a++ is  %d",a++);
+printf("\n The Value of a-- is  %d",a--);
+printf("\n The Value of --a is %d",--a);
+getch();
+}
